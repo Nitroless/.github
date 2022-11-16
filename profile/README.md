@@ -8,7 +8,7 @@ This works by copying the image URL to your clipboard and you can send the URL i
 | Platform    | Download Link |
 | ----------- | ------------- |
 | Web App     | [Open](https://nitroless.github.io)          |
-| Windows     | ❌            |
+| Windows     | [Download](https://github.com/Nitroless/nitroless-electron/releases/)      |
 | Android     | ❌            |
 | Linux       | ❌            |
 | iOS         | [Download](https://github.com/Nitroless/Nitroless-Apple/releases)      |
