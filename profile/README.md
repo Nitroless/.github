@@ -7,7 +7,7 @@ This works by copying the image URL to your clipboard and you can send the URL i
 ## Platforms
 | Platform    | Download Link |
 | ----------- | ------------- |
-| Web App     | [Open](https://nitroless.github.io)          |
+| Website     | [Open](https://nitroless.github.io)          |
 | iOS         | [Download](https://github.com/Nitroless/Nitroless-Apple/releases)      |
 | macOS       | [Download](https://github.com/Nitroless/Nitroless-Apple/releases)      |
 | Windows     | [Download](https://github.com/Nitroless/nitroless-electron/releases/)      |
