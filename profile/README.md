@@ -8,8 +8,13 @@ This works by copying the image URL to your clipboard and you can send the URL i
 | Platform    | Download Link |
 | ----------- | ------------- |
 | Web App     | [Open](https://nitroless.github.io)          |
+| iOS         | [Download](https://github.com/Nitroless/Nitroless-Apple/releases)      |
+| macOS       | [Download](https://github.com/Nitroless/Nitroless-Apple/releases)      |
 | Windows     | [Download](https://github.com/Nitroless/nitroless-electron/releases/)      |
 | Android     | ❌            |
 | Linux       | ❌            |
-| iOS         | [Download](https://github.com/Nitroless/Nitroless-Apple/releases)      |
-| macOS       | [Download](https://github.com/Nitroless/Nitroless-Apple/releases)      |
+
+## Discord server
+This is where you will find discussions, updates, announcements and support.
+
+https://discord.gg/dTPJ88fcm3
