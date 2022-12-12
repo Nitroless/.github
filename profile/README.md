@@ -8,10 +8,10 @@ This works by copying the image URL to your clipboard and you can send the URL i
 | Platform    | Download Link |
 | ----------- | ------------- |
 | Website     | [Open](https://nitroless.github.io)          |
-| iOS         | [Download](https://github.com/Nitroless/Nitroless-Apple/releases)      |
-| macOS       | [Download](https://github.com/Nitroless/Nitroless-Apple/releases)      |
+| iOS         | [Download](https://testflight.apple.com/join/PeIAi5MM)      |
+| macOS       | [Download](https://testflight.apple.com/join/PeIAi5MM)      |
 | Windows     | [Download](https://github.com/Nitroless/nitroless-electron/releases/)      |
-| Android     | ❌            |
+| Android     | [Download](https://play.google.com/store/apps/details?id=com.paraskcd.nitroless)      |
 | Linux       | ❌            |
 
 ## Discord server
